@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">p3_kamera</string>
+    <string name="MENU">MENU</string>
+    <string name="ingredients">ingredients</string>
+    <string name="Resep">Resep</string>
+    <string name="price">price</string>
+    <string name="HARGA_KAMERA">HARGA_KAMERA</string>
+</resources>
